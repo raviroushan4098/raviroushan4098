@@ -29,7 +29,7 @@
   <a href="https://github.com/raviroushan4098/Car-Rental"><img src="assets/repo-Car-Rental.svg" width="49%" alt="Car-Rental"></a>
 </p>
 
-<p align="center"><sub>Plus more private work, including Insight Stream (<a href="https://ormtools.vercel.app">ormtools.vercel.app</a>) and the GoAalsi storefront (<a href="https://www.goaalsi.com/">goaalsi.com</a>).</sub></p>
+<p align="center"><sub>Plus more private work, including BrandEye (<a href="https://brandeye.in">monitoring tools</a>) and the GoAalsi storefront (<a href="https://www.goaalsi.com/">goaalsi.com</a>).</sub></p>
 
 <img src="assets/h-lang.svg" width="100%" alt="languages">
 <img src="assets/languages.svg" width="100%" alt="Primary language across my repositories">
