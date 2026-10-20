@@ -11,7 +11,7 @@
 <img src="assets/about.svg" width="100%" alt="About Ravi: code window and current status">
 
 <img src="assets/h-cap.svg" width="100%" alt="capabilities">
-<img src="assets/capabilities.svg" width="100%" alt="Full-stack, iOS, Android and social media monitoring">
+<img src="assets/capabilities.svg" width="100%" alt="Full-stack, iOS, Android and social media monitoring manager">
 
 <img src="assets/h-stack.svg" width="100%" alt="tech stack">
 <img src="assets/stack.svg" width="100%" alt="Animated orbit of my tech stack">
